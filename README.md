@@ -17,8 +17,14 @@ All labels are presented in the 'tool_wear.csv' file including indicators from t
 * VB in 1/2ap: the value of flank wear in the 1/2 cutting depth
 * S: the wear area, mm^2
 ## Sensor data
-The root folder name is QIT-CEMC in which two folders are named 'Force' and 'Vibration_sound'. There are 68 'txt' files in the folder and each file has approximately 5,000,000 rows and 5 columns of data including time columns, force signals in the XYZ direction, and torque signals.
-* S: 
+The root folder name is 'QIT-CEMC Dataset' in which two folders are named 'Force and torque data' and 'Vibration and sound data'. There are 68 'txt' files in the 'Force' folder and each file has approximately 5,000,000 rows and 5 columns of data including time columns, force signals in the XYZ direction, and torque signals.
+* Time: The order of the data points, and also the order of time, follows the data points sampled at a sampling frequency of 10k.
+* Fx: Force data from channel x using a wireless rotating dynamometer.
+* Fy: Data from the y channel
+* Fz: Data from the z channel
+* Mz: the torque acquired from a wireless rotating dynamometer.
+There are 67 'csv' or 'exls' files in the 'Vibration and sound data' folder.
+* Time: 
 
 
 
