@@ -33,6 +33,8 @@ There are 67 'csv' or 'exls' files in the 'Vibration and sound data' folder. Not
 * Column 3: Vibration data from the y channel
 * Column 4: Vibration data from the z channel
 * Column 5: Sound data
+## How to use
+You can use these data to classify tool wear status.
   
 
 
