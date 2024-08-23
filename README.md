@@ -7,6 +7,8 @@ https://github.com/wwz456/QIT-CEMC-dataset/blob/main/experiment%20setup.png
 
 The machine conditions and some details are shown below.
 
+https://github.com/wwz456/QIT-CEMC-dataset/blob/main/machine%20conditions.png
+
 ## Folder structure
 The dataset consists of a CSV file that records the health indicators of tool wear and three folders, which are the vibration and sound signals folder, the force and torque signals folder, and the image folder.
 
