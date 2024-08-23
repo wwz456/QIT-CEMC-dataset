@@ -5,6 +5,8 @@ QIT-CEMC is an open-source tool wear dataset using the coated end milling cutter
 
 https://github.com/wwz456/QIT-CEMC-dataset/blob/main/experiment%20setup.png
 
+The machine conditions and some details are shown below.
+
 ## Folder structure
 The dataset consists of a CSV file that records the health indicators of tool wear and three folders, which are the vibration and sound signals folder, the force and torque signals folder, and the image folder.
 
@@ -23,8 +25,13 @@ The root folder name is 'QIT-CEMC Dataset' in which two folders are named 'Force
 * Fy: Data from the y channel
 * Fz: Data from the z channel
 * Mz: the torque acquired from a wireless rotating dynamometer.
-There are 67 'csv' or 'exls' files in the 'Vibration and sound data' folder.
-* Time: 
+There are 67 'csv' or 'exls' files in the 'Vibration and sound data' folder. Note: The data for the second cycle was lost because the acquisition software was disconnected.
+* Column 1: time. the same as force data
+* Column 2: Vibration data from the x channel
+* Column 3: Vibration data from the y channel
+* Column 4: Vibration data from the z channel
+* Column 5: Sound data
+  
 
 
 
