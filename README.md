@@ -1,2 +1,4 @@
 # QIT-CEMC-dataset
-A open source dataset about milling to monitoring tool wear status
+An open-source dataset about milling to monitoring tool wear status.
+
+QIT-CEMC is an open-source dataset
