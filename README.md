@@ -1,7 +1,8 @@
 # QIT-CEMC dataset
 An open-source dataset about milling to monitoring tool wear status.
 
-QIT-CEMC is an open-source dataset with data collected on a vertical machining centre for industrial big data and smart manufacturing experiments at Qilu Institute of Technology.
+QIT-CEMC is an open-source dataset with data collected on a vertical machining centre for industrial big data and smart manufacturing experiments at Qilu Institute of Technology. The structure of the experiment setup are shown below:
+
 
 ## Folder structure
 The dataset consists of a CSV file that records the health indicators of tool wear and three folders, which are the vibration and sound signals folder, the force and torque signals folder, and the image folder.
@@ -14,6 +15,7 @@ All labels are presented in the 'tool_wear.csv' file including indicators from t
 * VBmax: the max value of flank wear
 * VB in 1/2ap: the value of flank wear in the 1/2 cutting depth
 * S: the wear area, mm^2
+## Sensor data
 
 
 
