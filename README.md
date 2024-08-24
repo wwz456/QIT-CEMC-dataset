@@ -34,7 +34,12 @@ There are 67 'csv' or 'exls' files in the 'Vibration and sound data' folder. Not
 * Column 4: Vibration data from the z channel
 * Column 5: Sound data
 ## How to use
-You can use these data to classify tool wear status.
+You can use these data to classify tool wear status. Download link:
+
+https://www.qlit.edu.cn/datasets2/
+
+If you have any questions, please contact us at 22010329@siswa.unimas.my
+
   
 
 
