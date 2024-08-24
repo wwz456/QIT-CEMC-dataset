@@ -13,7 +13,7 @@ https://github.com/wwz456/QIT-CEMC-dataset/blob/main/machine%20conditions.png
 The dataset consists of a CSV file that records the health indicators of tool wear and three folders, which are the vibration and sound signals folder, the force and torque signals folder, and the image folder.
 
 ## Label structure
-All labels are presented in the 'tool_wear.csv' file including indicators from the side edge and the end edge. The first column represents the cycle number of the experiment. All the labels indicating the tool wear status are recorded in the other columns. For the side edge, 3 indicators named the max VB, VB in the half cutting depth and, wear area value from the 4 cutting edges were recorded. For the end teeth, 2 indicators named the max VB and wear area value from the same 4 cutting edges were recorded. All columns are described below:
+All labels are presented in the 'tool_wear.xls' file including indicators from the side edge and the end edge. The first column represents the cycle number of the experiment. All the labels indicating the tool wear status are recorded in the other columns. For the side edge, 3 indicators named the max VB, VB in the half cutting depth and, wear area value from the 4 cutting edges were recorded. For the end teeth, 2 indicators named the max VB and wear area value from the same 4 cutting edges were recorded. All columns are described below:
 
 * Cycle: the machine cycle, represents a single process.
 * Cutting edge: The tools used in this dataset have 4 cutting edges. Number 1 in the side teeth and the end teeth represent the same cutting edge.
