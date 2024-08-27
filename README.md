@@ -37,7 +37,10 @@ There are 67 'csv' or 'exls' files in the 'Vibration and sound data' folder. Not
 You can use these data to classify tool wear status. Download link:
 
 https://www.qlit.edu.cn/datasets2/
+or directly download the dataset from the Baidu disk link:
 
+https://pan.baidu.com/s/11XeJoW_-3uVQEnPCI3Eaog?pwd=jm7f 
+Access code: jm7f
 If you have any questions, please contact us at 22010329@siswa.unimas.my
 
   
